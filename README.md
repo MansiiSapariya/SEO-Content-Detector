@@ -3,11 +3,6 @@
 
 An end‑to‑end pipeline to analyze web pages for SEO readability, keyword usage, on‑page signals, and near‑duplicate detection, with an interactive Streamlit app for live URL analysis and corpus‑level similarity search.
 
-## Live app
-
-- Streamlit: https://seo-content-detector.streamlit.app
-
-If the app is rebuilding, wait a minute and refresh.
 
 ## Features
 
