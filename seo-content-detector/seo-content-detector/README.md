@@ -4,7 +4,7 @@
 End-to-end pipeline for SEO content quality scoring and duplicate detection with a Colab notebook and optional Streamlit app.
 
 ## Setup
-git clone https://github.com/yourusername/seo-content-detector
+git clone https://github.com/MansiiSapariya/SEO-Content-Detector
 cd seo-content-detector
 pip install -r requirements.txt
 jupyter notebook notebooks/seo_pipeline.ipynb
@@ -35,4 +35,4 @@ jupyter notebook notebooks/seo_pipeline.ipynb
 - LSH/cosine thresholds require corpus-specific tuning.
 
 ## Streamlit
-- Deployed URL: https://YOUR-APP.streamlit.app
+- Deployed URL: https://seo-content-detector-gh7ewkbschvgcjm7wnscbv.streamlit.app/
